@@ -1,2 +1,2 @@
-# ROGUE-PYGAME
-Jogo desenvolvido para a prova de programação estruturada em Python
+# ROGUE PYGAME
+Jogo desenvolvido para a disciplina de programação estruturada em Python - IBMEC 2024.1
